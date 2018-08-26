@@ -1,9 +1,6 @@
 package com.learn.demo;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class JavaDemo {
     public static void main(String[] args) {
@@ -25,5 +22,9 @@ public class JavaDemo {
         list.add("two");
         list.add("two");
         System.out.println(list);
+
+        Set<String> set = new HashSet<String>();
+        set.add("qaaaq");
+        System.out.println(set);
     }
 }
