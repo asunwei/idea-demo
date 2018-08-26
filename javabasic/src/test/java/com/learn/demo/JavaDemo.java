@@ -18,7 +18,6 @@ public class JavaDemo {
         list.add("one");
         list.add("one");
         list.add("one");
-<<<<<<< HEAD
         list.add("two");
         list.add("two");
         list.add("two");
