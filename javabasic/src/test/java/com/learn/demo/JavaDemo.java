@@ -12,6 +12,9 @@ public class JavaDemo {
         map.put(1, "one");
         map.put(2, "one");
         map.put(3, "one");
+        map.put(4, "one");
+        map.put(5, "one");
+        map.put(6, "one");
         System.out.println(map);
 
         List<String> list = new ArrayList<String>();
