@@ -10,6 +10,9 @@ public class JavaDemo {
         list.add("one");
         list.add("one");
         list.add("one");
+        list.add("four");
+        list.add("four");
+        list.add("four");
         System.out.println(list);
     }
 }
