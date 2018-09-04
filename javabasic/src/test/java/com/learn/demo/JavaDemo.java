@@ -14,14 +14,6 @@ public class JavaDemo {
         map.put(6, "one");
         System.out.println(map);
 
-        List<String> list = new ArrayList<String>();
-        list.add("one");
-        list.add("one");
-        list.add("one");
-        list.add("two");
-        list.add("two");
-        list.add("two");
-        System.out.println(list);
 
         List<String> list3 = new ArrayList<String>();
         list3.add("one");
@@ -30,7 +22,7 @@ public class JavaDemo {
         list3.add("two");
         list3.add("two");
         list3.add("two");
-        System.out.println(list);
+        System.out.println(list3);
 
         Set<String> set = new HashSet<String>();
         set.add("qaaaq");
