@@ -26,5 +26,7 @@ public class JavaDemo {
         Set<String> set = new HashSet<String>();
         set.add("qaaaq");
         System.out.println(set);
+
+        System.out.println("111");
     }
 }
