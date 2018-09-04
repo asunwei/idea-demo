@@ -23,6 +23,15 @@ public class JavaDemo {
         list.add("two");
         System.out.println(list);
 
+        List<String> list3 = new ArrayList<String>();
+        list3.add("one");
+        list3.add("one");
+        list3.add("one");
+        list3.add("two");
+        list3.add("two");
+        list3.add("two");
+        System.out.println(list);
+
         Set<String> set = new HashSet<String>();
         set.add("qaaaq");
         System.out.println(set);
