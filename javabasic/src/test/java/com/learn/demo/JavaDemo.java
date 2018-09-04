@@ -14,6 +14,14 @@ public class JavaDemo {
         map.put(6, "one");
         System.out.println(map);
 
+        List<String> list = new ArrayList<String>();
+        list.add("one");
+        list.add("one");
+        list.add("one");
+        list.add("two");
+        list.add("two");
+        list.add("two");
+        System.out.println(list);
 
         List<String> list3 = new ArrayList<String>();
         list3.add("one");
