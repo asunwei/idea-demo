@@ -30,6 +30,10 @@ public class JavaDemo {
         list3.add("two");
         list3.add("two");
         list3.add("two");
+        list3.add("1");
+        list3.add("1");
+        list3.add("1");
+        list3.add("1");
         System.out.println(list3);
 
         Set<String> set = new HashSet<String>();
