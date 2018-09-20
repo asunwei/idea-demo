@@ -21,6 +21,12 @@ public class JavaDemo {
         list.add("two");
         list.add("two");
         list.add("two");
+        list.add("one");
+        list.add("one");
+        list.add("one");
+        list.add("two");
+        list.add("two");
+        list.add("two");
         System.out.println(list);
 
         List<String> list3 = new ArrayList<String>();
