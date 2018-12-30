@@ -17,7 +17,10 @@ public class TestDemo {
 
         System.out.println("hello java");
         System.out.println("TestDemo");
+<<<<<<< HEAD
         System.out.println("this is test demo");
+=======
+>>>>>>> 25168cb4e931e5538cfbf58761bb7aabf54566c8
         System.out.println("this is test demo2");
     }
 
